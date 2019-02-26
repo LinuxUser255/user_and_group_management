@@ -1,10 +1,6 @@
-# nmap-bash
+#!/bin/bash
 
 #Custom nmap command condensed into concise BASH script.
-
-
-#!/bin/bash 
-
 #This scan initiates service enumeration, syn scan, timing, and OS detection.  
 
 echo "Enter the target IP : " 
