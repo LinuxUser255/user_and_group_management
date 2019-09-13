@@ -1,1 +1,1 @@
-Bash scripts fpor adding users, managing passwords, etc..
+Bash scripts for adding users, managing passwords, etc..
